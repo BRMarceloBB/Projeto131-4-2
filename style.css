@@ -1,0 +1,40 @@
+body {
+    background-image: linear-gradient(to right top, #33a0f1, #c5dfef, #cde3ef, #e2ecf2, #badded);
+}
+
+button {
+    width: 50%;
+    border-radius: 25px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+height: 10%;
+}
+
+.voltar {
+    padding: 10px;
+    border-radius: 15px;
+}
+
+canvas {
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    margin-top: 50px;
+    animation-duration: 4s;
+}
+
+.conclusao {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    line-height: 3;
+}
